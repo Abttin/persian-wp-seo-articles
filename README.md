@@ -1,3 +1,4 @@
+<img width="1254" height="1254" alt="5764706174598058379" src="https://github.com/user-attachments/assets/13e77b9e-c6bc-43df-8d24-f739cd14ea7e" />
 # Persian WordPress SEO Articles
 
 > ساخته‌شده توسط **CodeMate** 💻 — تیم طراحی سایت و توسعه وب (WordPress، WooCommerce، Elementor و AI)
